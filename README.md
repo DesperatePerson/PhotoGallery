@@ -1,2 +1,2 @@
 # PhotoGallery
-Photo Gallery on JavaScript
+[Photo Gallery](https://desperateperson.github.io/PhotoGallery/) on JavaScript
